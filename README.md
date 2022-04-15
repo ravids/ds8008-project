@@ -18,7 +18,8 @@ The src folder contains Huggingface BART model code.
 
 **Dataset:**
 
-Huggingface BART model has been trained on multiple datasets which can be found at
+Huggingface BART model has been trained on multiple datasets. Following are the links to the different vocublaries.
+
 "facebook/bart-base": "https://huggingface.co/facebook/bart-base/resolve/main/vocab.json"
 "facebook/bart-large": "https://huggingface.co/facebook/bart-large/resolve/main/vocab.json"
 "facebook/bart-large-mnli": "https://huggingface.co/facebook/bart-large-mnli/resolve/main/vocab.json"
