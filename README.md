@@ -28,3 +28,5 @@ Huggingface BART model has been trained on multiple datasets. Following are the 
 - "facebook/bart-large-cnn": "https://huggingface.co/facebook/bart-large-cnn/resolve/main/vocab.json"
 - "facebook/bart-large-xsum": "https://huggingface.co/facebook/bart-large-xsum/resolve/main/vocab.json"
 - "yjernite/bart_eli5": "https://huggingface.co/yjernite/bart_eli5/resolve/main/vocab.json"
+
+In addition to the datasets used in the paper, a custom dataset was also used in the project to compare BART and BERT base models. The custom dataset used in this experiment is a dataset downloadable from https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data and pre-processed. The pre-processed dataset is in the data folder.
